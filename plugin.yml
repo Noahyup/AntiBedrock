@@ -1,0 +1,4 @@
+name: AntiBedRock
+main: me.noahyup.antibedrock.Antibedrock
+version: 1.0
+commands:
